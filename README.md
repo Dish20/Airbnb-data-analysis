@@ -1,23 +1,11 @@
 
-
-🏠 Airbnb Data Analytics & Visualization
+# Airbnb Data Analytics & Visualization
 <div align="center">
 
 <img src="Screenshot%20(111).png" alt="Dashboard Cover" width="800">
 
-🏠 Airbnb Data Analytics & Visualization
 
 <!-- Badges -->
-
-<p>
-<a href="https://www.google.com/search?q=https://public.tableau.com/profile/yourprofile">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3DTableau%26logoColor%3Dwhite" alt="Tableau Public" />
-</a>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Data%2520Analytics-Blue%3Fstyle%3Dfor-the-badge" alt="Data Analytics" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Excel-217346%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite" alt="Excel" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Completed-success%3Fstyle%3Dfor-the-badge" alt="Status" />
-</p>
-
 <p>
 <a href="#-project-overview">Overview</a> •
 <a href="#-business-problem">Problem Statement</a> •
