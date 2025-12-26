@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/Screenshot (106).png" alt="Dashboard Cover" width="800">
+<img src="Screenshot (106).png" alt="Dashboard Cover" width="800">
 
 🏠 Airbnb Data Analytics & Visualization
 
