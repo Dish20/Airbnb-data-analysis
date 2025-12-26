@@ -1,6 +1,9 @@
+
+
+🏠 Airbnb Data Analytics & Visualization
 <div align="center">
 
-<img src="Screenshot%20(106).png" alt="Dashboard Cover" width="800">
+<img src="Screenshot%20(111).png" alt="Dashboard Cover" width="800">
 
 🏠 Airbnb Data Analytics & Visualization
 
@@ -53,14 +56,14 @@ Key Attributes: Price, Room Type, Review Scores, Number of Reviews, Availability
 
 <div align="center">
 <h3>1. Geographic Pricing Distribution</h3>
-<img src="Screenshot%20(102).png" width="70%">
+<img src="Screenshot%20(106).png" width="70%">
 </div>
 
 📍 Insight: Properties in the downtown area command a 40% premium compared to the suburbs, though occupancy rates remain high in transit-accessible outer zones.
 
 <div align="center">
 <h3>2. Room Type Analysis</h3>
-<img src="Screenshot%20(105).png" width="70%">
+<img src="Screenshot%20(110).png" width="70%">
 </div>
 
 🏠 Insight: "Entire homes" make up 60% of the market, but "Private rooms" offer a higher Return on Investment (ROI) due to significantly lower maintenance costs.
